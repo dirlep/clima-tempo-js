@@ -15,3 +15,9 @@ Digite a cidade desejada e clique em Buscar (ou aperte ENTER).
 
 Projeto feito com HTML, CSS e JavaScript.<br>
 API utilizada: [Open Weather Map](https://openweathermap.org/api).
+
+
+
+## Chave API
+
+A chave utilizada na API é pessoal e instransferível, caso você queira refazer o projeto ou utilizar a API, é necessário criar uma conta na Open Weather para receber uma chave.
